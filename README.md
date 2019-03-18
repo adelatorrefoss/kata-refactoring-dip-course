@@ -1,4 +1,4 @@
-Refactoring Kata to Work Dependency Inversion Principle 
+Refactoring Kata to learn Dependency Inversion Principle 
 =======================================================
 
 This example simulates a system that manages Courses, and precisely the methods to set how long are they. 
